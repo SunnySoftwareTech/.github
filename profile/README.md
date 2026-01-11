@@ -68,17 +68,6 @@ We're a team of passionate developers building innovative software solutions tha
 
 </div>
 
-> [Explain how people can get started with your projects or organization]
-
-<!-- Example:
-1. Browse our [repositories](https://github.com/orgs/SunnySoftwareTech/repositories)
-2. Check out our [documentation](link-to-docs)
-3. Read our [contributing guidelines](link-to-contributing)
-4. Join our [community](link-to-community)
--->
-
----
-
 <div align="center">
 
 ## 🤝 Contributing
