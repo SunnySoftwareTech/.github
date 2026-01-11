@@ -70,9 +70,9 @@ We're a team of passionate developers building innovative software solutions tha
 
 </div>
 
-We welcome contributions from the community! 
+Feel free to contribute and improve our products! 
 
-> [Add information about how people can contribute to your projects]
+> [Be sure the code works and doesn't affect any other features]
 
 <!-- Example:
 - Check out our [Contributing Guide](CONTRIBUTING.md)
@@ -91,7 +91,7 @@ We welcome contributions from the community!
 
 <div align="center">
 
-> [Add your contact information and community links]
+> [Feel free to discuss in our forum and community.]
 
 <!-- Example options:
 - 🌐 Website: [your-website.com](https://your-website.com)
@@ -107,28 +107,6 @@ We welcome contributions from the community!
 ---
 
 <div align="center">
-
-## 📊 Organization Stats
-
-</div>
-
-<!-- 
-  Optional: Add some organization statistics or highlights
-  You can use GitHub's profile README features to add dynamic content
--->
-
-> [Add stats, badges, or other information you want to highlight]
-
-<!-- Example badges you can add:
-![GitHub Repo Stars](https://img.shields.io/github/stars/SunnySoftwareTech/your-repo-name?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/SunnySoftwareTech/your-repo-name)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SunnySoftwareTech/your-repo-name)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-Note: Replace 'your-repo-name' with actual repository names or aggregate stats manually
--->
-
----
 
 <div align="center">
 
