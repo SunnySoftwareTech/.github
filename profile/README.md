@@ -116,7 +116,7 @@ Feel free to contribute and improve our products!
 
 <div align="center">
 
-> [⭐ Star our repositories
+> [-⭐ Star our repositories
 - 🍴 Fork and contribute
 - 📢 Share our work]
 
