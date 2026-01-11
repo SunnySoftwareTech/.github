@@ -1,9 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=SunnySoftwareTech&fontSize=40&fontColor=FFFFFF&animation=twinkling" />
+<!-- Animated waving header - adapts to theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=SunnySoftwareTech&fontSize=40&fontColor=FFFFFF&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header&text=SunnySoftwareTech&fontSize=40&fontColor=FFFFFF&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=SunnySoftwareTech&fontSize=40&fontColor=FFFFFF&animation=twinkling" alt="Header" />
+</picture>
 
-<!-- Animated typing effect for the welcome message -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+SunnySoftwareTech!+%E2%98%80%EF%B8%8F;Building+Innovative+Solutions;Brightening+Your+Development" alt="Typing SVG" />
+<!-- Animated typing effect - adapts to theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+SunnySoftwareTech!+%E2%98%80%EF%B8%8F;Building+Innovative+Solutions;Brightening+Your+Development">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Welcome+to+SunnySoftwareTech!+%E2%98%80%EF%B8%8F;Building+Innovative+Solutions;Brightening+Your+Development">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+SunnySoftwareTech!+%E2%98%80%EF%B8%8F;Building+Innovative+Solutions;Brightening+Your+Development" alt="Typing SVG" />
+</picture>
 
 </div>
 
@@ -17,11 +26,12 @@
   - Add new sections as needed
   - Delete these instruction comments when you're done
   - The typing animation above can be customized at: https://readme-typing-svg.herokuapp.com/
+  - This template automatically adapts to dark/light mode based on user's GitHub theme
 -->
 
 <div align="center">
   
-### 🌟 <span style="color: #FFA500;">About Us</span>
+### 🌟 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/About_Us-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/About_Us-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/About_Us-FFA500?style=for-the-badge" alt="About Us"></picture>
 
 </div>
 
@@ -35,26 +45,22 @@ We're a team of passionate developers building innovative software solutions tha
 
 <div align="center">
 
-## 🚀 <span style="color: #FFA500;">Featured Projects</span>
+## 🚀 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Featured_Projects-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Featured_Projects-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Featured_Projects-FFA500?style=for-the-badge" alt="Featured Projects"></picture>
 
 </div>
-
-<div style="border-left: 4px solid #FFA500; padding-left: 20px; margin: 20px 0;">
 
 Here are some of our key projects:
 
 <!-- Add your projects here. You can use this format or customize it -->
 
-### <span style="color: #FF8C00;">🔥 [Project Name 1](https://github.com/SunnySoftwareTech/project-name-1)</span>
+### 🔥 [Project Name 1](https://github.com/SunnySoftwareTech/project-name-1)
 [Brief description of what this project does and why it's important]
 
-### <span style="color: #FF8C00;">🔥 [Project Name 2](https://github.com/SunnySoftwareTech/project-name-2)</span>
+### 🔥 [Project Name 2](https://github.com/SunnySoftwareTech/project-name-2)
 [Brief description of what this project does and why it's important]
 
-### <span style="color: #FF8C00;">🔥 [Project Name 3](https://github.com/SunnySoftwareTech/project-name-3)</span>
+### 🔥 [Project Name 3](https://github.com/SunnySoftwareTech/project-name-3)
 [Brief description of what this project does and why it's important]
-
-</div>
 
 <!-- You can also display them as a table:
 | Project | Description | Status |
@@ -67,11 +73,9 @@ Here are some of our key projects:
 
 <div align="center">
 
-## 💡 <span style="color: #FFA500;">Getting Started</span>
+## 💡 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Getting_Started-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Getting_Started-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Getting_Started-FFA500?style=for-the-badge" alt="Getting Started"></picture>
 
 </div>
-
-<div style="background: linear-gradient(to right, #FFF5E6, #FFFFFF); padding: 15px; border-radius: 8px; border: 2px solid #FFA500;">
 
 [Explain how people can get started with your projects or organization]
 
@@ -82,13 +86,11 @@ Here are some of our key projects:
 4. Join our [community](link-to-community)
 -->
 
-</div>
-
 ---
 
 <div align="center">
 
-## 🤝 <span style="color: #FFA500;">Contributing</span>
+## 🤝 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contributing-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contributing-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Contributing-FFA500?style=for-the-badge" alt="Contributing"></picture>
 
 </div>
 
@@ -107,11 +109,11 @@ We welcome contributions from the community!
 
 <div align="center">
 
-## 📫 <span style="color: #FFA500;">Get in Touch</span>
+## 📫 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Get_in_Touch-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Get_in_Touch-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Get_in_Touch-FFA500?style=for-the-badge" alt="Get in Touch"></picture>
 
 </div>
 
-<div align="center" style="padding: 15px;">
+<div align="center">
 
 [Add your contact information and community links]
 
@@ -130,7 +132,7 @@ We welcome contributions from the community!
 
 <div align="center">
 
-## 📊 <span style="color: #FFA500;">Organization Stats</span>
+## 📊 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Organization_Stats-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Organization_Stats-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Organization_Stats-FFA500?style=for-the-badge" alt="Organization Stats"></picture>
 
 </div>
 
@@ -154,7 +156,7 @@ Note: Replace 'your-repo-name' with actual repository names or aggregate stats m
 
 <div align="center">
 
-## 🌟 <span style="color: #FFA500;">Support Us</span>
+## 🌟 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Support_Us-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Support_Us-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Support_Us-FFA500?style=for-the-badge" alt="Support Us"></picture>
 
 </div>
 
@@ -200,8 +202,13 @@ Note: Replace 'your-repo-name' with actual repository names or aggregate stats m
 
 <div align="center">
   
-<sub>Made with ❤️ by the <span style="color: #FFA500;">SunnySoftwareTech</span> team</sub>
+<sub>Made with ❤️ by the SunnySoftwareTech team</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=100&section=footer" />
+<!-- Animated waving footer - adapts to theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=100&section=footer" alt="Footer" />
+</picture>
 
 </div>
