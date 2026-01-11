@@ -45,13 +45,13 @@ We're a team of passionate developers building innovative software solutions tha
 <!-- Add your projects here. You can use this format or customize it -->
 
 ### 🔥 [Drafty notes](https://github.com/SunnySoftwareTech/Drafty)
-> [Your new note taking companion capable of project planning and more.]
+> Your new note taking companion capable of project planning and more.
 
 ### 🔥 [Sunny Browser](https://github.com/SunnySoftwareTech/Sunny-Browser)
-> [Our new decluttered browser still in early development.]
+> Our new decluttered browser still in early development.
 
 ### 🔥 [Organization blog and forum](https://github.com/SunnySoftwareTech/project-name-3)
-> [A place to mention issues and discuss new features and more.]
+> A place to mention issues and discuss new features and more.
 
 <!-- You can also display them as a table:
 | Project | Description | Status |
@@ -72,7 +72,7 @@ We're a team of passionate developers building innovative software solutions tha
 
 Feel free to contribute and improve our products! 
 
-> [Be sure the code works and doesn't affect any other features]
+> Be sure the code works and doesn't affect any other features
 
 <!-- Example:
 - Check out our [Contributing Guide](CONTRIBUTING.md)
@@ -91,7 +91,7 @@ Feel free to contribute and improve our products!
 
 <div align="center">
 
-> [Feel free to discuss in our forum and community.]
+> Feel free to discuss in our forum and community.
 
 <!-- Example options:
 - 🌐 Website: [your-website.com](https://your-website.com)
@@ -116,9 +116,9 @@ Feel free to contribute and improve our products!
 
 <div align="center">
 
-> ✨Star our repositories
-> 🍴Fork and contribute
-> 📢Share our work
+> ✨Star our repositories.
+> 🍴Fork and contribute.
+> 📢Share our work.
 
 <!-- Example:
 - ⭐ Star our repositories
