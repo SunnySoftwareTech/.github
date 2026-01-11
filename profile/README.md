@@ -64,10 +64,6 @@ We're a team of passionate developers building innovative software solutions tha
 
 <div align="center">
 
-## 💡 Getting Started
-
-</div>
-
 <div align="center">
 
 ## 🤝 Contributing
