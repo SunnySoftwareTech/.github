@@ -44,11 +44,11 @@ We're a team of passionate developers building innovative software solutions tha
 
 <!-- Add your projects here. You can use this format or customize it -->
 
-### 🔥 [Project Name 1](https://github.com/SunnySoftwareTech/project-name-1)
-> [Brief description of what this project does and why it's important]
+### 🔥 [Drafty notes](https://github.com/SunnySoftwareTech/Drafty)
+> [Your new note taking companion capable of project planning and more.]
 
-### 🔥 [Project Name 2](https://github.com/SunnySoftwareTech/project-name-2)
-> [Brief description of what this project does and why it's important]
+### 🔥 [Sunny Browser](https://github.com/SunnySoftwareTech/Sunny-Browser)
+> [Our new decluttered browser still in early development.]
 
 ### 🔥 [Project Name 3](https://github.com/SunnySoftwareTech/project-name-3)
 > [Brief description of what this project does and why it's important]
