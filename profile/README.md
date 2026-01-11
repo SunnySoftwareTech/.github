@@ -26,7 +26,7 @@
 
 </div>
 
-[Write a brief description of your organization here. What do you do? What's your mission? What makes you unique?]
+We make software and products like our note taking app drafty for people to use everyday.
 
 <!-- Example:
 We're a team of passionate developers building innovative software solutions that brighten your day. Our focus is on creating user-friendly applications that solve real-world problems.
