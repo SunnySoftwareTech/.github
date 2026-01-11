@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☀️ Welcome to SunnySoftwareTech
+ <h1>☀️ Welcome to SunnySoftwareTech</h1>
 
 <h4>Building and designing software to benefit everyone.</h4>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   
-## 🌟 About Us
+ <h2>🌟 About Us</h2>
 
 <div align="center">
 
@@ -36,22 +36,22 @@ We're a team of passionate developers building innovative software solutions tha
 
 <div align="center">
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 </div>
 
-> Here are some of our key projects:
+ <h3>Here are some of our key projects</h3>
 
 <!-- Add your projects here. You can use this format or customize it -->
 
-### 🔥 [Drafty notes](https://github.com/SunnySoftwareTech/Drafty)
-> Your new note taking companion capable of project planning and more.
+## 🔥 [Drafty notes](https://github.com/SunnySoftwareTech/Drafty)
+ Your new note taking companion capable of project planning and more.
 
-### 🔥 [Sunny Browser](https://github.com/SunnySoftwareTech/Sunny-Browser)
-> Our new decluttered browser still in early development.
+## 🔥 [Sunny Browser](https://github.com/SunnySoftwareTech/Sunny-Browser)
+ Our new decluttered browser still in early development.
 
-### 🔥 [Organization blog and forum](https://github.com/SunnySoftwareTech/project-name-3)
-> A place to mention issues and discuss new features and more.
+## 🔥 [Organization blog and forum](https://github.com/SunnySoftwareTech/project-name-3)
+ A place to mention issues and discuss new features and more.
 
 <!-- You can also display them as a table:
 | Project | Description | Status |
@@ -66,13 +66,13 @@ We're a team of passionate developers building innovative software solutions tha
 
 <div align="center">
 
-## 🤝 Contributing
+<h2>🤝 Contributing</h2>
 
 </div>
 
 Feel free to contribute and improve our products! 
 
-> Be sure the code works and doesn't affect any other features
+ Be sure the code works and doesn't affect any other features
 
 <!-- Example:
 - Check out our [Contributing Guide](CONTRIBUTING.md)
@@ -85,13 +85,13 @@ Feel free to contribute and improve our products!
 
 <div align="center">
 
-## 📫 Get in Touch
+<h2>📫 Get in Touch</h2>
 
 </div>
 
 <div align="center">
 
-> Feel free to discuss in our forum and community.
+ Feel free to discuss in our forum and community.
 
 <!-- Example options:
 - 🌐 Website: [your-website.com](https://your-website.com)
@@ -110,15 +110,15 @@ Feel free to contribute and improve our products!
 
 <div align="center">
 
-## 🌟 Support Us
+<h2>🌟 Support Us</h2>
 
 </div>
 
 <div align="center">
 
-> ✨Star our repositories.
-> 🍴Fork and contribute.
-> 📢Share our work.
+ -✨Star our repositories.
+ -🍴Fork and contribute.
+ -📢Share our work.
 
 <!-- Example:
 - ⭐ Star our repositories
