@@ -24,7 +24,7 @@
   
 ## 🌟 About Us
 
-</div>
+<div align="center">
 
 We make software and products like our note taking app drafty for people to use everyday.
 
