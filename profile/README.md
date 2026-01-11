@@ -2,7 +2,7 @@
 
 # ☀️ Welcome to SunnySoftwareTech
 
-<sub>Building Innovative Solutions | Brightening Your Development</sub>
+>Building and designing software to benefit everyone.
 
 </div>
 
