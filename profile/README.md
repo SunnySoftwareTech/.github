@@ -97,9 +97,13 @@ We welcome contributions from the community!
 
 [Add stats, badges, or other information you want to highlight]
 
-<!-- Example:
-![GitHub Organization Stars](https://img.shields.io/github/stars/SunnySoftwareTech?style=social)
-![GitHub followers](https://img.shields.io/github/followers/SunnySoftwareTech?style=social)
+<!-- Example badges you can add:
+![GitHub Repo Stars](https://img.shields.io/github/stars/SunnySoftwareTech/your-repo-name?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/SunnySoftwareTech/your-repo-name)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SunnySoftwareTech/your-repo-name)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+Note: Replace 'your-repo-name' with actual repository names or aggregate stats manually
 -->
 
 ---
