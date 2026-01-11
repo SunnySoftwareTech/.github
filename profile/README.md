@@ -50,8 +50,8 @@ We're a team of passionate developers building innovative software solutions tha
 ### 🔥 [Sunny Browser](https://github.com/SunnySoftwareTech/Sunny-Browser)
 > [Our new decluttered browser still in early development.]
 
-### 🔥 [Project Name 3](https://github.com/SunnySoftwareTech/project-name-3)
-> [Brief description of what this project does and why it's important]
+### 🔥 [Organization blog and forum](https://github.com/SunnySoftwareTech/project-name-3)
+> [A place to mention issues and discuss new features and more.]
 
 <!-- You can also display them as a table:
 | Project | Description | Status |
@@ -116,7 +116,9 @@ Feel free to contribute and improve our products!
 
 <div align="center">
 
-> [Add information about how people can support your organization if applicable]
+> [- ⭐ Star our repositories
+- 🍴 Fork and contribute
+- 📢 Share our work]
 
 <!-- Example:
 - ⭐ Star our repositories
