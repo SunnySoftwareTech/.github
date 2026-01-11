@@ -1,18 +1,8 @@
 <div align="center">
 
-<!-- Animated waving header - adapts to theme -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=SunnySoftwareTech&fontSize=40&fontColor=FFFFFF&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header&text=SunnySoftwareTech&fontSize=40&fontColor=FFFFFF&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=SunnySoftwareTech&fontSize=40&fontColor=FFFFFF&animation=twinkling" alt="Header" />
-</picture>
+# ☀️ Welcome to SunnySoftwareTech
 
-<!-- Animated typing effect - adapts to theme -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+SunnySoftwareTech!+%E2%98%80%EF%B8%8F;Building+Innovative+Solutions;Brightening+Your+Development">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Welcome+to+SunnySoftwareTech!+%E2%98%80%EF%B8%8F;Building+Innovative+Solutions;Brightening+Your+Development">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+SunnySoftwareTech!+%E2%98%80%EF%B8%8F;Building+Innovative+Solutions;Brightening+Your+Development" alt="Typing SVG" />
-</picture>
+<sub>Building Innovative Solutions | Brightening Your Development</sub>
 
 </div>
 
@@ -25,13 +15,14 @@
   - Remove or modify any sections that don't fit your needs
   - Add new sections as needed
   - Delete these instruction comments when you're done
-  - The typing animation above can be customized at: https://readme-typing-svg.herokuapp.com/
-  - This template automatically adapts to dark/light mode based on user's GitHub theme
+  - This template uses clean typography and simple styling for a professional look
 -->
+
+---
 
 <div align="center">
   
-### 🌟 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/About_Us-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/About_Us-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/About_Us-FFA500?style=for-the-badge" alt="About Us"></picture>
+## 🌟 About Us
 
 </div>
 
@@ -45,22 +36,22 @@ We're a team of passionate developers building innovative software solutions tha
 
 <div align="center">
 
-## 🚀 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Featured_Projects-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Featured_Projects-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Featured_Projects-FFA500?style=for-the-badge" alt="Featured Projects"></picture>
+## 🚀 Featured Projects
 
 </div>
 
-Here are some of our key projects:
+> Here are some of our key projects:
 
 <!-- Add your projects here. You can use this format or customize it -->
 
 ### 🔥 [Project Name 1](https://github.com/SunnySoftwareTech/project-name-1)
-[Brief description of what this project does and why it's important]
+> [Brief description of what this project does and why it's important]
 
 ### 🔥 [Project Name 2](https://github.com/SunnySoftwareTech/project-name-2)
-[Brief description of what this project does and why it's important]
+> [Brief description of what this project does and why it's important]
 
 ### 🔥 [Project Name 3](https://github.com/SunnySoftwareTech/project-name-3)
-[Brief description of what this project does and why it's important]
+> [Brief description of what this project does and why it's important]
 
 <!-- You can also display them as a table:
 | Project | Description | Status |
@@ -73,11 +64,11 @@ Here are some of our key projects:
 
 <div align="center">
 
-## 💡 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Getting_Started-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Getting_Started-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Getting_Started-FFA500?style=for-the-badge" alt="Getting Started"></picture>
+## 💡 Getting Started
 
 </div>
 
-[Explain how people can get started with your projects or organization]
+> [Explain how people can get started with your projects or organization]
 
 <!-- Example:
 1. Browse our [repositories](https://github.com/orgs/SunnySoftwareTech/repositories)
@@ -90,13 +81,13 @@ Here are some of our key projects:
 
 <div align="center">
 
-## 🤝 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contributing-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contributing-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Contributing-FFA500?style=for-the-badge" alt="Contributing"></picture>
+## 🤝 Contributing
 
 </div>
 
 We welcome contributions from the community! 
 
-[Add information about how people can contribute to your projects]
+> [Add information about how people can contribute to your projects]
 
 <!-- Example:
 - Check out our [Contributing Guide](CONTRIBUTING.md)
@@ -109,13 +100,13 @@ We welcome contributions from the community!
 
 <div align="center">
 
-## 📫 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Get_in_Touch-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Get_in_Touch-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Get_in_Touch-FFA500?style=for-the-badge" alt="Get in Touch"></picture>
+## 📫 Get in Touch
 
 </div>
 
 <div align="center">
 
-[Add your contact information and community links]
+> [Add your contact information and community links]
 
 <!-- Example options:
 - 🌐 Website: [your-website.com](https://your-website.com)
@@ -132,7 +123,7 @@ We welcome contributions from the community!
 
 <div align="center">
 
-## 📊 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Organization_Stats-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Organization_Stats-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Organization_Stats-FFA500?style=for-the-badge" alt="Organization Stats"></picture>
+## 📊 Organization Stats
 
 </div>
 
@@ -141,7 +132,7 @@ We welcome contributions from the community!
   You can use GitHub's profile README features to add dynamic content
 -->
 
-[Add stats, badges, or other information you want to highlight]
+> [Add stats, badges, or other information you want to highlight]
 
 <!-- Example badges you can add:
 ![GitHub Repo Stars](https://img.shields.io/github/stars/SunnySoftwareTech/your-repo-name?style=social)
@@ -156,13 +147,13 @@ Note: Replace 'your-repo-name' with actual repository names or aggregate stats m
 
 <div align="center">
 
-## 🌟 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Support_Us-FFA500?style=for-the-badge&labelColor=1a1a1a"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Support_Us-FF8C00?style=for-the-badge&labelColor=f0f0f0"><img src="https://img.shields.io/badge/Support_Us-FFA500?style=for-the-badge" alt="Support Us"></picture>
+## 🌟 Support Us
 
 </div>
 
 <div align="center">
 
-[Add information about how people can support your organization if applicable]
+> [Add information about how people can support your organization if applicable]
 
 <!-- Example:
 - ⭐ Star our repositories
@@ -202,13 +193,8 @@ Note: Replace 'your-repo-name' with actual repository names or aggregate stats m
 
 <div align="center">
   
-<sub>Made with ❤️ by the SunnySoftwareTech team</sub>
+---
 
-<!-- Animated waving footer - adapts to theme -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=100&section=footer" alt="Footer" />
-</picture>
+<sub>Made with ❤️ by the SunnySoftwareTech team</sub>
 
 </div>
