@@ -1,6 +1,6 @@
 <div align="center">
 
- <h1>☀️ Welcome to SunnySoftwareTech</h1>
+ <h1>☀️ Welcome to Sunny Software</h1>
 
 <h4>Building and designing software to benefit everyone.</h4>
 
